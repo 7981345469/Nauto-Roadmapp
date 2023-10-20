@@ -36,8 +36,8 @@
     margin-right:5px;
     color:green;
     background-image: url("./images/nauto-logo-footer.svg");
-    background-size: 20px 20px; /* Adjust the size of the image symbol as needed */
-    background-position:left center; /* Adjust the position of the symbol relative to the text */
+    background-size: 20px 20px;
+    background-position:left center; 
     background-repeat: no-repeat;
     padding-left: 25px;
 
